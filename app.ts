@@ -52,7 +52,7 @@ class App {
     sessionConfig(this.app);
     cookiesConfig(this.app);
     corsConfig(this.app);
-    staticConfig(this.app);
+    //staticConfig(this.app);
     logConfig(this.app);
   }
  
